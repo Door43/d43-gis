@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gis:home|Door43 (gis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gis|d43-gis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gis/archive/master.zip|d43-gis.zip]]
+
+**Recent Changes**
+{{changes>ns = gis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gis|Ethnologue data]]
+
